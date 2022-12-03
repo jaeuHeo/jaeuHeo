@@ -20,8 +20,10 @@
     <div>
         <h3>Server</h3>
         <h5> 웹서버 - Nginx , WSGI - uWSGI,Gunicorn , 웹 프레임워크 - Django를 통해 REST API 개발을 가능하게 했습니다. </h5>
-            리눅스환경에서 설계했으며 DB는 PostgrSQL, MariaDB 서버를 주로 사용했으며 RDBMS에 대한 이해가 가능합니다. </h5>
-            프론트엔드 개발자와 협업을 통한 서비스 개발 경험을 갖고 있습니다. </h5>
+             리눅스환경에서 설계했으며 DB는 PostgrSQL, MariaDB 서버를 주로 사용했으며 RDBMS에 대한 이해가 가능합니다. </h5>
+             프론트엔드 개발자와 협업을 통한 서비스 개발 경험을 갖고 있습니다.
+        <br />
+        <br />
     </div>
     <div>
         <h3>Web Server</h3>
