@@ -22,7 +22,7 @@
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
         <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=ONNX&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorRT-?style=flat&logo=TensorRT&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorRT?style=flat&logoColor=white" />
     </div>
     <div>
         <h3>Web Server</h3>
