@@ -19,7 +19,7 @@
     <h2>🛠 Tech Stack 🛠</h2>
     <div>
         <h3>Web Server</h3>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python?style=flat&logo=Python&logoColor=white" />
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
         <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white" />
