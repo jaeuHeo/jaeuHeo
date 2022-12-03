@@ -5,7 +5,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=jaeuHeo&count_private=true&show_icons=true&theme=omni" />
         <br />
         <br />
-        <h2>Interest: MLOps & Computer Vision</h2>
+        <h2>Interest: MLOps & Computer Vision<h2>
         <br />
         <br />
         <h2>Vision & Values</h2>
@@ -15,7 +15,7 @@
             백문이 불여일견이라는 개발자로서의 가치관을 갖고 항상 시도해보고 도전하는 ML 엔지니어입니다. <h5>
             수동적이 아닌 스스로 문제점을 찾고 개선하기 위해 팀원들의 의견을 적극 반영하려는 자세를 갖고 있습니다.
         <br />
-</h2>
+        <br />
     </div>
     <h2>🛠 Tech Stack 🛠</h2>
     <div>
