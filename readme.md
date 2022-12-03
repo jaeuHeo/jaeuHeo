@@ -6,9 +6,9 @@
         <br />
         <br />
         <h2>Interest: MLOps & Computer Vision</h2>
-        
-    <div>    
-        <h2>🛠 Tech Stack 🛠</h2>
+        <br />
+    </div>
+    <h2>🛠 Tech Stack 🛠</h2>
     <div>
         <h3>Web Client</h3>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
