@@ -3,9 +3,6 @@
 <h3 align="center">  🛠 Tech Stack 🛠<h3>
 <div align="center">
     <div>
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hju0594">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hju0594"> <img src="https://github-readme-stats.vercel.app/api?username=jaeuHeo&count_private=true&show_icons=true&theme=omni" />
         <br />
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=jaeuHeo&count_private=true&show_icons=true&theme=omni" />
-        <br />
-        <br />
+        
