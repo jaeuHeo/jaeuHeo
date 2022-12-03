@@ -7,7 +7,6 @@
         <br />
         <h2>Interest: MLOps & Computer Vision<h2>
         <br />
-        <br />
         <h2>Vision & Values</h2>
         <h5>항상 사용자 입장에서 더 편하고 실용적일 수 있도록 기획적인 부분도 함께 고려하는 개발자입니다. <h5>
             최신 기술을 배우는 것을 두려워하지 않습니다. <h5>
