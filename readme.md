@@ -3,4 +3,4 @@
 
 <div align="center">
     <div>
-        <h1> 👋 Hi, I’m @jaeuHeo </h1>
+        <h1> 👋 Hi, I’m Jaeu Heo </h1>
