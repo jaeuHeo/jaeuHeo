@@ -6,7 +6,7 @@
         <br />
         <br />
         <h2>Interest: MLOps & Computer Vision</h2>
-        <br />
+
     </div>
     <h2>🛠 Tech Stack 🛠</h2>
     <div>
