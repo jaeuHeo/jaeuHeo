@@ -3,8 +3,6 @@
 <h3 align="center">  🛠 Tech Stack 🛠<h3>
 <div align="center">
     <div>
-        <h1>👋 Hi there👋</h1>
-        <p>I'm Jaeho Jang, a growing developer.</p>
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wogh6475">
         <br />
         <br />
