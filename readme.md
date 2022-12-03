@@ -31,6 +31,8 @@
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
         <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
         <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=Gunicorn&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Tornado-green" />
+        <img src="https://img.shields.io/badge/-RestAPI-brightgreen" />
     </div>
     <div>
         <h3>Database</h3>
