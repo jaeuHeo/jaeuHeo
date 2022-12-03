@@ -7,7 +7,7 @@
         <br />
         <h2>Interest: MLOps & Computer Vision</h2>
         
-    </div>    
+    <div>    
         <h2>🛠 Tech Stack 🛠</h2>
     <div>
         <h3>Web Client</h3>
