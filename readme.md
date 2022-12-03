@@ -4,9 +4,8 @@
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=jaeuHeo&count_private=true&show_icons=true&theme=omni" />
         <br />
-        
-<img src="https://img.shields.io/static/v1?label=<LABEL>&message=Interest>&color=brightgreen" />
-    <br />
+        <br />
+        <img src="https://img.shields.io/static/v1?label=''&message=Interest>&color=brightgreen" />
         
 <h2>🛠 Tech Stack 🛠</h2>
     <div>
