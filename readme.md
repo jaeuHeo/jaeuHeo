@@ -51,7 +51,7 @@
         <img src="https://img.shields.io/badge/-MLOps-brightgreen" />
     </div>
     <div>
-        <h3>and other things</h3>
+        <h3>Other things</h3>
         <img src="https://img.shields.io/badge/-Kubespawner-green" />
         </p>
     </div>
