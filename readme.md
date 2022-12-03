@@ -18,33 +18,33 @@
     </div>
     <h2>🛠 Tech Stack 🛠</h2>
     <div>
-        <h3>Web Server</h3>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
-        <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
+        <h3>Machine Learning</h3>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
         <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
         <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=Gunicorn&logoColor=white" />
     </div>
     <div>
-        <h3>Data</h3>
+        <h3>Web Server</h3>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
+        <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=Gunicorn&logoColor=white" />
+    </div>
+    <div>
+        <h3>Database</h3>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
         <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
-        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
     </div>
     <div>
         <h3>Infra</h3>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
-        <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat&logo=Github%20Actions&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
     </div>
-    <div>
-        <h3>IDE</h3>
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
-        <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=Intellij%20IDEA&logoColor=white" />
-    </div>  
     <div>
         <h3>and other things</h3>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
