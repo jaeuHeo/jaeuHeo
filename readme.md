@@ -23,6 +23,7 @@
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
         <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=ONNX&logoColor=white" />
         <img src="https://img.shields.io/badge/-TensorRT-brightgreen" />
+        <img src="https://img.shields.io/badge/-Triton Inference SERVER-green" />
     </div>
     <div>
         <h3>Web Server</h3>
@@ -44,13 +45,13 @@
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+        <img src="https://img.shields.io/badge/-MLOps-brightgreen" />
     </div>
     <div>
         <h3>and other things</h3>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Kubespawner-green" />
+        </p>
     </div>
-    <br />
-    <br />
-    <div>
-        <h2>💁‍ How popular ?!</h2>
+</div>
     
